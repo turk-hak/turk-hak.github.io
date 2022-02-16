@@ -7,3 +7,5 @@ Mit Bild
 - zum Beitrag gehen und ihn zum Schreiben öffnen
 - an der Stelle wo das Bild erscheinen soll: !(Bildname)
 - Commit
+
+!(/Rocket_Raccoon.jpg)
