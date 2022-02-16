@@ -9,4 +9,4 @@ Um ein Bild einzufügen
 -   also z.B. !(meinBild.jpg)
 - "Commit changes "anklicken
 
-![Guardians of the Galaxy: Rocket](Rocket_Raccoon.jpg)
+![Guardians of the Galaxy: Rocket](./Rocket_Raccoon.jpg)
