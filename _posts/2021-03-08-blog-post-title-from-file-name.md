@@ -1,4 +1,4 @@
-## Blog Post Title From First Header
+## Überschrift des Blogeintrags entspricht dieser Überschrift
 
 Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
 
