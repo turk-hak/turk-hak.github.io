@@ -8,4 +8,4 @@ Mit Bild
 - an der Stelle wo das Bild erscheinen soll: !(Bildname)
 - Commit
 
-!(/Rocket_Raccoon.jpg)
+!(/_posts/Rocket_Raccoon.jpg)
