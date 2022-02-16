@@ -17,3 +17,7 @@ Um ein Bild in einen Blogeintrag einzufügen:
 - "Commit changes "anklicken
 
 ![Guardians of the Galaxy: Rocket](./Rocket_Raccoon.jpg)
+
+
+Absoluter Pfad:
+![Guardians of the Galaxy: Rocket](https://raw.githubusercontent.com/turk-hak/turk-hak.github.io/main/_posts/Rocket_Raccoon.jpg)
