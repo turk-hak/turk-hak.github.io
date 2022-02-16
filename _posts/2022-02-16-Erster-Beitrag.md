@@ -1,8 +1,10 @@
 
 ## Wie man einen Beitrag erstellt
 
-Datei erstellen:
-Unter _posts wird per "Add File" eine neue Datei angelegt, man muss ihr einen Namen geben nach dem Muster "Datum-Überschriftstext", also z.B. 2022-12-31-Das-ist-die Überschrift"
+Datei erstellen unter https://github.com/turk-hak/turk-hak.github.io:
+- Gehe ins Verzeichnis "_posts", 
+- dort dann per "Add File" eine neue Datei anlegen, 
+  - man muss ihr einen Namen geben nach dem Muster "Datum-Überschriftstext", also z.B. 2022-12-31-Das-ist-die Überschrift"
 
 Datei editieren:
 Der ganz oben befindliche Text (ohne die vorangestellten ##) erscheint dann später als Überschrift des Blogeintrags. Falls eine Beitragsdatei nicht mit "## Überschriftstext" startet, wird der Teil hinter dem Datum im Dateinamen genommen
@@ -16,7 +18,12 @@ Um ein Bild in einen Blogeintrag einzufügen:
   - also z.B. !(meinBild.jpg)
 - "Commit changes "anklicken
 
+Relativer Pfad:
 ![Guardians of the Galaxy: Rocket](./Rocket_Raccoon.jpg)
+
+![Guardians of the Galaxy: Rocket](Rocket_Raccoon.jpg)
+
+![Guardians of the Galaxy: Rocket](./_posts/Rocket_Raccoon.jpg)
 
 
 Absoluter Pfad:
