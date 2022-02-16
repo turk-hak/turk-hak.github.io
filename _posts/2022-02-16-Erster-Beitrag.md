@@ -6,6 +6,7 @@ Um ein Bild einzufügen
 - "Commit changes "anklicken
 - zum Beitrag gehen und ihn zum Schreiben öffnen
 - an der Stelle wo das Bild erscheinen soll: !(Bildname)
+-   also z.B. !(meinBild.jpg)
 - "Commit changes "anklicken
 
 ![Guardians of the Galaxy: Rocket](Rocket_Raccoon.jpg)
