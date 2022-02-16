@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Mein Name ist Mustafa Hafizogullari
 
-Maybe say a some things about yourself.
+Willkommen auf meinem Blog.
 
-Or maybe what you plan to blog about.
+Bitte verbreiten Sie gerne meinen Blog oder Artikel daraus.
