@@ -8,7 +8,4 @@ Um ein Bild einzufügen
 - an der Stelle wo das Bild erscheinen soll: !(./Bildname)
 - Commit
 
-!(./_posts/Rocket_Raccoon.jpg)
-![Textbeschreibung]()
-![This is an image](https://turk-hak.github.io/_posts/Rocket_Raccoon.jpg)
-![This is an image](Rocket_Raccoon.jpg)
+![Guardians of the Galaxy: Rocket](Rocket_Raccoon.jpg)
