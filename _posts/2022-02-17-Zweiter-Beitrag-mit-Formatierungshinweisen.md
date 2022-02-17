@@ -5,7 +5,7 @@ also "Zweiter Beitrag mit Formatierungshinweisen"
 
 # Bildeinbettung 
 per `![Bildtitel](Bilddateiname)`
-![Bildtitel](../../../../_posts/quicksilver.jpg)
+![Bildtitel](../../../quicksilver.jpg)
 
 
 
