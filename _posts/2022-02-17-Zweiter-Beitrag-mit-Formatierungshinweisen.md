@@ -12,11 +12,14 @@ per `![Bildtitel](Bilddateiname)`
 # Überschrift erstellen
 Um eine Überschrift zu erstellen einfach 1 bis 6 # Zeichen vor die Überschrift setzen. Je kleiner die Zahl desto grösser die Überschrift
 
-`# Grösste Überschrift`
+>`# Grösste Überschrift`
+># Grösste Überschrift
 
-`## Zweitgrösste Überschrift`
+>`## Zweitgrösste Überschrift`
+>## Zweitgrösste Überschrift
 
-`###### Kleinste Überschrift`
+>`###### Kleinste Überschrift`
+>###### Kleinste Überschrift
 
 
 
@@ -28,7 +31,7 @@ per `**This is bold text**`
 
 
 # Unformatierter Text
-Den Text mit Formatierzeichen wie z.B. ** in Backticks `` einschliessen (direkt einfügen im Editor mit Ctrl-e)
+Den Text mit Formatierzeichen wie z.B. ** in Backticks \`\*\*This is bold text\*\*\` einschliessen (direkt einfügen im Editor mit Ctrl-e)
 
 `**This is bold text**`
 
