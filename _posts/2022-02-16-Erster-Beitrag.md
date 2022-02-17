@@ -12,16 +12,16 @@ Der ganz oben befindliche Text (ohne die vorangestellten ##) erscheint dann spä
 Um ein Bild in einen Blogeintrag einzufügen:
 - in Github das Wurzel-Verzeichnis öffnen
 - das Bild per Maus aus dem eigenen Rechnerordner dorthin verschieben, d.h. das Bild über das Verzeichnis ziehen, bis Upload erscheint
-- "Commit changes "anklicken
+- "Commit changes" anklicken
 - zum Beitrag gehen und ihn zum Schreiben öffnen
-- an der Stelle wo das Bild erscheinen soll: !(/Bildname)
-  - also z.B. \!(/meinBild.jpg)
-- "Commit changes "anklicken
+- an der Stelle wo das Bild erscheinen soll: ![Bildtitel](/Bildname)
+  - also z.B. \![MeinBild](/meinBild.jpg)
+- "Commit changes" anklicken
 
-Relativer Pfad:
+Relativer Pfad als Bildname (/Rocket_Raccoon.jpg):
 
 ![Guardians of the Galaxy: Rocket](/Rocket_Raccoon.jpg)
 
 
-Absoluter Pfad https://raw.githubusercontent.com/turk-hak/turk-hak.github.io/main/Rocket_Raccoon.jpg:
+Absoluter Pfad als Bildname (https://raw.githubusercontent.com/turk-hak/turk-hak.github.io/main/Rocket_Raccoon.jpg):
 ![Guardians of the Galaxy: Rocket](https://raw.githubusercontent.com/turk-hak/turk-hak.github.io/main/Rocket_Raccoon.jpg)
