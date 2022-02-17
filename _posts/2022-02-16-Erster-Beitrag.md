@@ -19,15 +19,10 @@ Um ein Bild in einen Blogeintrag einzufügen:
 - "Commit changes "anklicken
 
 Relativer Pfad:
-![Guardians of the Galaxy: Rocket](./Rocket_Raccoon.jpg)
 
 ![Guardians of the Galaxy: Rocket](/Rocket_Raccoon.jpg)
 
-![Guardians of the Galaxy: Rocket](Rocket_Raccoon.jpg)
-
-![Guardians of the Galaxy: Rocket](./_posts/Rocket_Raccoon.jpg)
-
-![Guardians of the Galaxy: Rocket](/_posts/Rocket_Raccoon.jpg)
+![Guardians of the Galaxy: Rocket](../../../_posts/Rocket_Raccoon.jpg)
 
 ![Guardians of the Galaxy: Rocket](../../../Rocket_Raccoon.jpg)
 
