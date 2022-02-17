@@ -14,8 +14,8 @@ Um ein Bild in einen Blogeintrag einzufügen:
 - das Bild per Maus aus dem eigenen Rechnerordner dorthin verschieben, d.h. das Bild über das Verzeichnis ziehen, bis Upload erscheint
 - "Commit changes" anklicken
 - zum Beitrag gehen und ihn zum Schreiben öffnen
-- an der Stelle wo das Bild erscheinen soll: ![Bildtitel](/Bildname)
-  - also z.B. \![MeinBild](/meinBild.jpg)
+- an der Stelle wo das Bild erscheinen soll: `![Bildtitel](/Bildname)`
+  - also z.B. `![MeinBild](/meinBild.jpg)`
 - "Commit changes" anklicken
 
 Relativer Pfad als Bildname (/Rocket_Raccoon.jpg):
