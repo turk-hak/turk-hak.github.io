@@ -21,9 +21,13 @@ Um ein Bild in einen Blogeintrag einzufügen:
 Relativer Pfad:
 ![Guardians of the Galaxy: Rocket](./Rocket_Raccoon.jpg)
 
+![Guardians of the Galaxy: Rocket](/Rocket_Raccoon.jpg)
+
 ![Guardians of the Galaxy: Rocket](Rocket_Raccoon.jpg)
 
 ![Guardians of the Galaxy: Rocket](./_posts/Rocket_Raccoon.jpg)
+
+![Guardians of the Galaxy: Rocket](/_posts/Rocket_Raccoon.jpg)
 
 
 Absoluter Pfad:
