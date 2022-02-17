@@ -4,9 +4,10 @@ also "Zweiter Beitrag mit Formatierungshinweisen"
 **Übrigens kann man sich beim Editieren per "Preview"-Knopf schon mal das Ergebnis anschauen!**
 
 # Bildeinbettung 
-per `![Bildtitel](Bilddateiname)`
-![Bildtitel](/quicksilver.jpg)
+per `![Bildtitel](/Bilddateiname)`
+![Quicksilver](/quicksilver.jpg)
 
+![Olaf](/_posts/Olaf.png)
 
 
 # Überschrift erstellen
